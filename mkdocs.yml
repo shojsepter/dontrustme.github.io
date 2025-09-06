@@ -1,1 +1,22 @@
-site_name: My Docs
+site_name: Team Wiki
+site_url: https://shojsepter.github.io/dontrustme.github.io/  
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Guide:
+    - Conventions: guide/conventions.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+extra:
+  social: []
