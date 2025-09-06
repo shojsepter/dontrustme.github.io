@@ -6,6 +6,8 @@ nav:
   - Home: index.md
   - Guide:
     - Conventions: guide/conventions.md
+  - Other:
+    - todo: other/todo.md
 markdown_extensions:
   - toc:
       permalink: true
