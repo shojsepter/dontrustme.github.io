@@ -6,6 +6,7 @@ nav:
   - Home: index.md
   - Guide:
     - Conventions: guide/conventions.md
+    - Matrix User Migration: guide/matrixusermigration.md
   - Other:
     - todo: other/todo.md
 markdown_extensions:
